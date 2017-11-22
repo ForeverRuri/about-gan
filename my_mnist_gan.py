@@ -1,3 +1,7 @@
+# 在训练过程中，每次使用随机生成的noise
+# 使得训练出的模型对任意输入都可以生成类似mnist的输出
+
+
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
